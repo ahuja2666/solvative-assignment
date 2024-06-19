@@ -1,5 +1,7 @@
 # Solvative Assignment
 
+## [Live Url](https://solvative-ha.vercel.app/)
+
 This project is a solution for the Solvative assignment. It implements a search functionality for places using React.
 
 ## Prerequisites
